@@ -1,0 +1,6 @@
+@"
+target/
+*.class
+.idea/
+.vscode/
+"@ | Set-Content -Encoding utf8 .gitignore
